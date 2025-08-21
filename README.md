@@ -26,6 +26,7 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 - ⚙️ Ansible
 - 🚀 CI/CD com GitLab
 - ☸️ Kubernetes
+- 🐍 Python
 
 ### 🎯 Interesses pessoais
 - 🎮 Gaming
