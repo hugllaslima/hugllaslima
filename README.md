@@ -25,6 +25,7 @@ Sou DevOps Engineer apaixonado por tecnologia e automação, sempre em busca de 
 - 🔧 Terraform
 - ⚙️ Ansible
 - 🚀 CI/CD com GitLab
+- ☸️ Kubernetes
 
 ### 🎯 Interesses pessoais
 - 🎮 Gaming
