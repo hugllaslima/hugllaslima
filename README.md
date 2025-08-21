@@ -12,14 +12,24 @@ Sou DevOps Engineer apaixonado por tecnologia e automação, sempre em busca de 
 ![SHELL SCRIPT](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugllaslima&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=hugllaslima&theme=dark&hide_border=false)
 
 ### 📫 Entre em Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugllaslima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugllas-r-s-lima/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugllaslima)
 
+### 🔥 Estudando Atualmente
+- 🔧 Terraform
+- ⚙️ Ansible
+- 🚀 CI/CD com GitLab
 
-- 🔥 Sempre estudando novas tecnologias
-- 📫 Contate-me no e-mail: hugllaslima@gmail.com
-- 🧔‍♂️ Pronomes: Ele/Dele
-- 😍 Amo jogar videogames, tocar violão e Voar
+### 🎯 Interesses pessoais
+- 🎮 Gaming
+- 🎸 Violão
+-  ✈️ Aviação
+
+### 📈 Linguagens Mais utilizadas
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hugllaslima&layout=compact&theme=dark&hide_border=false)
+
