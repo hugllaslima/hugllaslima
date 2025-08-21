@@ -58,7 +58,7 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 
 ### 🎯 Hobbies Preferidos
 - 🎮 Gaming
-- 🎸 Piano
+- 🎹 Piano
 - ✈️ Aviação
 - 📚 Estudar
 - 📖 Leitura
