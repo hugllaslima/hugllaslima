@@ -56,10 +56,12 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 - ☸️ Kubernetes
 - 🐍 Python
 
-### 🎯 Interesses pessoais
+### 🎯 Hobbies Preferidos
 - 🎮 Gaming
-- 🎸 Violão
--  ✈️ Aviação
+- 🎸 Piano
+- ✈️ Aviação
+- 📚 Estudar
+- 📖 Leitura
 
 ### 📈 Linguagens Mais utilizadas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hugllaslima&layout=compact&theme=dark&hide_border=false)
