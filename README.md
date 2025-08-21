@@ -1,7 +1,7 @@
 # Olá, eu sou o Hugllas Lima! 👋
 
 ### 🚀 Sobre Mim 
-Sou DevOps Engineer apaixonado por tecnologia e automação, sempre em busca de novos conhecimentos e desafios.
+Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MBA em Projetos de Redes e Computação em Nuvem e especialização em Desenvolvimento de Software com Práticas DevOps. Entre meus conhecimentos está uma sólida base de experiência atuando como Analista de Infraestrutura Sênior, aproveitando grande parte desse conhecimento técnico e prático para atuar de forma eficiente como DevOps Engineer.
 
 ### 🛠️ Tecnologias & Ferramentas 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
