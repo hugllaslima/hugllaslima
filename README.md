@@ -1,4 +1,7 @@
-# Olá, eu sou o Hugllas Lima! 👋
+## Olá, eu sou o Hugllas Lima! 👋
+
+# 🚀 Sobre mim
+Sou DevOps Engineer apaixonado por tecnologia e automação, sempre em busca de novos conhecimentos e desafios.
 
 - 👨‍🎓 DevOps Engineer 
 - 🔥 Sempre estudando novas tecnologias
