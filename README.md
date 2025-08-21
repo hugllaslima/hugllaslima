@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 DevOps Engineer 
-- 🔥 Esturando automação com Ansible e Terraform
+- 🔥 Sempre estudando novas tecnologias
 - 📫 Contate-me no e-mail: hugllaslima@gmail.com
 - 🧔‍♂️ Pronomes: Ele/Dele
 - 😍 Amo jogar videogames, tocar violão e Voar
