@@ -38,6 +38,11 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 ![HPE](https://img.shields.io/badge/HPE-01A982?style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white)
 ![DELL](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![WIRELESS NETWORKS](https://img.shields.io/badge/Wireless_Networks-9C27B0?style=for-the-badge&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-FF6B35?style=for-the-badge&logo=router&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-00A86B?style=for-the-badge&logo=openvpn&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-1E88E5?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-9C27B0?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP-IP](https://img.shields.io/badge/TCP%2FIP-FF5722?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![DOCUMENTATION](https://img.shields.io/badge/Documentation-00BCD4?style=for-the-badge&logoColor=white)
 
 ### 📊 Estatísticas GitHub
