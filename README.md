@@ -49,11 +49,7 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 ![DOCUMENTATION](https://img.shields.io/badge/Documentation-00BCD4?style=for-the-badge&logoColor=white)
 
 ### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugllaslima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugllaslima&layout=compact&theme=dark"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=hugllaslima&theme=dark)
 
 ### 📫 Entre em Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugllaslima@gmail.com)
