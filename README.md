@@ -74,4 +74,5 @@ Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MB
 
 ### 📈 Linguagens Mais utilizadas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hugllaslima&layout=compact&theme=dark&hide_border=false)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hugllaslima&layout=compact&theme=dark)
 
