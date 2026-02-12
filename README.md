@@ -1,7 +1,16 @@
 # Olá, eu sou o Hugllas Lima! 👋
 
 ### 🚀 Sobre Mim 
-Sou DevOps Engineer graduado em Redes de Computadores pela Faculdade CDL, com MBA em Projetos de Redes e Computação em Nuvem e especialização em Desenvolvimento de Software com Práticas DevOps. Entre meus conhecimentos está uma sólida base de experiência atuando como Analista de Infraestrutura Sênior, aproveitando grande parte desse conhecimento técnico e prático para atuar de forma eficiente como DevOps Engineer.
+Sou um Especialista em Infraestrutura Sênior em transição para a cultura DevOps. Graduado em Redes de Computadores (Faculdade CDL), possuo MBA em Projetos de Redes e Cloud, além de especialização em Práticas DevOps e Desenvolvimento de Software.
+
+Minha trajetória é marcada pela sustentação de ambientes críticos e alta disponibilidade (HA). Hoje, utilizo essa base robusta para implementar Infraestrutura como Código (IaC), pipelines de CI/CD e orquestração de containers, garantindo entregas ágeis e resilientes.
+
+### Minha Stack & Foco:
+
+☁️ Cloud: Gestão avançada em AWS e GCP.
+☸️ Orquestração: Deploy e automação de clusters Kubernetes (K3s/EKS).
+🛠️ Automação: Terraform, Ansible, Python e Shell Script.
+📊 Observabilidade: Zabbix, Grafana e Datadog.
 
 ### 🛠️ Tecnologias & Ferramentas 
 ![DEVOPS](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=devdotto&logoColor=white)
