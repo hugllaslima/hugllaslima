@@ -69,7 +69,7 @@ Minha trajetória é marcada pela sustentação de ambientes críticos e alta di
 
 ### 🎯 Hobbies Preferidos
 - 🎮 Gaming
-- 🎹 Piano
+- 🎹 Música
 - ✈️ Aviação
 - 📚 Estudar
 - 📖 Leitura
